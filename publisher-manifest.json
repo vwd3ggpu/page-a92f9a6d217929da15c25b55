@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "722433ac9a833ca1527f2c62",
+  "owner": "vwd3ggpu",
+  "repo": "page-a92f9a6d217929da15c25b55",
+  "title": "凡尔赛",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a92f9a6d217929da15c25b55",
+      "a": "凡尔赛",
+      "b": "稳定全球clash加速器",
+      "entity": "凡尔赛",
+      "brand": "凡尔赛",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "75c114aba6723e42b80066b0004b0faf4125fcf1ba773f2ed01c8fe860e0dffd",
+      "content": {
+        "primary_entity": "凡尔赛",
+        "keyword1": "凡尔赛",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：Windows 与 macOS 用 Clash，手机端用 Clash Meta 或 Stash。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐后导入订阅，按客户端文档完成配置即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松开启加速",
+          "AI_DESCRIPTION": "，凡尔赛面向需要稳定连接的用户提供多档套餐，基础版适合个人轻量使用，旗舰版兼顾流媒体与游戏，团队版满足多设备与高流量需求。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三个维度帮助快速定位。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合日常浏览与轻量视频。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "设备与流量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的流程。",
+          "AI_GUIDE_TITLE": "配置指南",
+          "AI_HERO_INTRO": "凡尔赛提供多档订阅套餐，覆盖个人到团队场景，用户可根据设备数量与月流量灵活选择，并按客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备需求",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加持",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数量与专线权益，按实际使用场景挑选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的设备数量与客户端类型，确认与自己的终端匹配。",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅链接，完成节点选择与连接测试。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "凡尔赛多档加速套餐",
+          "AI_FAQ_ANSWER_1": "凡尔赛套餐按每月流量与同时在线设备数区分。基础版 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。设备多或用于团队协作选团队版，个人日常使用基础版或旗舰版即可。",
+          "AI_FAQ_ANSWER_2": "基础版可解锁基础流媒体，旗舰版支持全节点原生流媒体解锁，并带有 IPLC 专线游戏加速优化。需要稳定观看与低延迟游戏体验时，旗舰版更适合。",
+          "AI_FAQ_ANSWER_3": "三个版本均支持同时在线设备数限制：基础版 3 台、旗舰版 5 台、团队版 20 台。多设备可分别导入同一订阅使用，超出数量需升级套餐。",
+          "AI_FAQ_ANSWER_4": "旗舰版按年付 ¥350/年，团队版按年付 ¥850/年，基础版按年付 ¥150/年。按年付比按月累计更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "根据设备系统选择客户端后导入订阅链接即可。不同平台适配情况不一，配置时请参考所选客户端的导入说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "凡尔赛三个套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "旗舰版有哪些流媒体与游戏优化？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何限制？",
+          "AI_FAQ_QUESTION_4": "按年付价格是多少？",
+          "AI_FAQ_QUESTION_5": "订阅后怎么配置客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gzmh20am44d.com",
+    "host": "xn--yfrw1gzmh20am44d.com"
+  },
+  "file_hashes": {
+    "index.html": "45168de09b4c8efb9cadbd65158ffaa9db0cf039b6454c2b066621d4008f4b86",
+    "sitemap.xml": "238bf10ff02d67a2d740f16fc5b7b19023abb591214b6b8c24e5decc0966458e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b0a725931e5ea70529b53770b6e04b1f5f88b096ab1354e6d1d745b3082bcd61",
+    "robots.txt": "fe8c71243297ae1b7736fadf7fe86101e56eb7beea205431f5f56f827b705b41",
+    "e590cd5f749ed4174f10bc13ad304df4.txt": "01b3704bfd3ed7a158afc9cbf303292048f8f59b36c3c0b8a39d49f144570d71"
+  },
+  "revision": "0151ebf54f47033e91f1a59ee6da755a386e98dd0086dc3856d8b9fdb8c7d0b8"
+}
